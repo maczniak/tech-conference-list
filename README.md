@@ -26,6 +26,7 @@
 ## May
 
 * May 1-4 (Mon-Thu) - [GOTO](https://gotochgo.com/), Chicago, USA
+* May 3-5 (Wed-Fri) - [ElixirConf.EU](http://www.elixirconf.eu/), Barcelona, Spain
 * May 8-11 (Mon-Thu) - [OSCON](http://conferences.oreilly.com/oscon/oscon-tx), Austin, USA
 * May 10-12 (Wed-Fri) - [Microsoft Build](http://build.microsoft.com/), Seatle, USA
 * May 17-25 (Wed-Thu) - [PyCon](https://us.pycon.org/2017/), Portland, USA
@@ -53,6 +54,7 @@
 ## September
 
 * September 3-9 (Sun-Sat) - [ICFP + CUFP](http://conf.researchr.org/home/icfp-2017), Oxford, UK
+* September 5-8 (Tue-Fri) - [ElixirConf](https://elixirconf.com/), Bellevue, USA
 * September 23-29 (Sat-Fri) - [CppCon](https://cppcon.org/), Bellevue, USA
 * September 25-28 (Mon-Thu) - Strata + Hadoop World, New York, USA
 * ? - RustConf, Portland, USA
@@ -65,6 +67,7 @@
 * October 16-19 (Mon-Thu) - Software Architecture, London, UK
 * October 17-20 (Tue-Fri) - Velocity, London, UK
 * October 19-21 (Thu-Sat) - [QCon](http://2016.qconshanghai.com/), Shanghai, China
+* October 22-27 (Sun-Fri) - [SPLASH (OOPSLA)](http://2017.splashcon.org/), Vancouver, Canada
 * ? - [GOTO](https://gotocon.com/), London, UK
 
 ## November
