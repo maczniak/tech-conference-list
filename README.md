@@ -1,19 +1,26 @@
 # 2017
 
+## January
+
+* January 8-12 (Sun-Thu) - [LambdaConf winter retreat](http://lambdaconf.us/#ev1), Crested Butte, USA
+
 ## February
 
 * February 2-3 (Thu-Fri) - [Git Merge](http://git-merge.com/), Brussels, Belgium
 * February 7-9 (Tue-Thu) - [Spark Summit East](https://spark-summit.org/east-2017/), Boston, USA
+* February 8-10 (Wed-Fri) - [SIGPL Winter School 2017](http://sigpl.or.kr/school/2017w/), Daejeon, South Korea
 * February 9-10 (Thu-Fri) - [Lambda Days](http://www.lambdadays.org/lambdadays2017), Kraków, Poland
 * February 27-March 3 (Mon-Fri) - [GDC](http://www.gdconf.com/), San Francisco, USA
 
 ## March
 
+* March 2-4 (Thu-Sat) - [try! Swift Tokyo 2017](https://www.eventbrite.com/e/try-swift-tokyo-2017-tickets-29300267890), Tokyo, Japan
 * March 6-10 (Mon-Fri) - [QCon](https://qconlondon.com/), London, UK
 * March 8-10 (Wed-Fri) - [GCP Next](https://cloudnext.withgoogle.com/) (Google Cloud Platform's User Conference) San Francisco, USA
 * March 13-16 (Mon-Thu) - [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-ca), San Francisco, USA
 * March 20 (Mon) - [EclipseCon](https://www.eclipseconverge.org/na2017/), San Jose, USA
 * March 20-30 (Mon-Thu) - [Erlang & Elixir Factory](http://www.erlang-factory.com/sfbay2017/), San Francisco, USA
+* March 30-31 (Thu-Fri) - [Clojure/west](http://2017.clojurewest.org/), Portland, USA
 
 ## April
 
@@ -31,6 +38,7 @@
 * May 10-12 (Wed-Fri) - [Microsoft Build](http://build.microsoft.com/), Seatle, USA
 * May 17-25 (Wed-Thu) - [PyCon](https://us.pycon.org/2017/), Portland, USA
 * May 22-25 (Mon-Thu) - [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-eu), London, UK
+* May 25-27 (Thu-Sat) - [LambdaConf](http://lambdaconf.us/#lcusc), Boulder, USA
 * May 30-June 2 (Tue-Fri) - [Scala Days](http://event.scaladays.org/scaladays-cph-2017), Copenhagen, Denmark
 * ? - Google I/O, Mountain View, USA
 
@@ -57,6 +65,7 @@
 * September 5-8 (Tue-Fri) - [ElixirConf](https://elixirconf.com/), Bellevue, USA
 * September 23-29 (Sat-Fri) - [CppCon](https://cppcon.org/), Bellevue, USA
 * September 25-28 (Mon-Thu) - Strata + Hadoop World, New York, USA
+* September 28-30 (Thu-Sat) - [Strange Loop](http://www.thestrangeloop.com/), St. Louis, USA
 * ? - RustConf, Portland, USA
 
 ## October
