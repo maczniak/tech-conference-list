@@ -21,6 +21,7 @@
 * March 13-16 (Mon-Thu) - [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-ca), San Francisco, USA
 * March 20 (Mon) - [EclipseCon](https://www.eclipseconverge.org/na2017/), San Jose, USA
 * March 20-30 (Mon-Thu) - [Erlang & Elixir Factory](http://www.erlang-factory.com/sfbay2017/), San Francisco, USA
+* March 26-31 (Sun-Fri) - [IETF 98](https://www.ietf.org/meeting/98/index.html), Chicago, USA
 * March 30-31 (Thu-Fri) - [Clojure/west](http://2017.clojurewest.org/), Portland, USA
 
 ## April
@@ -62,12 +63,14 @@
 ## July
 
 * July 4-7 (Tue-Fri) - [useR](https://twitter.com/user_brussels), Brussels, Belgium
-* July 13-15 (Thu-Sat) - [GopherCon](https://gophercon.com/)
-* July 20-21 (Thu-Fri) - [EuroClojure](http://2017.euroclojure.org)
-* ? - [EuroPython](http://blog.europython.eu/post/152466580627/europython-2017-will-be-held-in-rimini-italy), Rimini, Italy
+* July 9-16 (Sun-Sun) - [EuroPython](http://blog.europython.eu/post/152466580627/europython-2017-will-be-held-in-rimini-italy), Rimini, Italy
+* July 12-15 (Wed-Sat) - [GopherCon](https://gophercon.com/), Denver, USA
+* July 16-21 (Sun-Fri) - [IETF 99](https://www.ietf.org/meeting/99/), Prague, Czech Republic
+* July 20-21 (Thu-Fri) - [EuroClojure](http://2017.euroclojure.org), Berlin, Germany
 
 ## August
 
+* August 12-15 (Sat-Tue) - PyCon Korea, Seoul, Korea
 * August 18-19 (Fri-Sat) - [RustConf](http://rustconf.com/), Portland, USA
 
 ## September
@@ -77,7 +80,6 @@
 * September 23-29 (Sat-Fri) - [CppCon](https://cppcon.org/), Bellevue, USA
 * September 25-28 (Mon-Thu) - Strata + Hadoop World, New York, USA
 * September 28-30 (Thu-Sat) - [Strange Loop](http://www.thestrangeloop.com/), St. Louis, USA
-* ? - PyCon Korea, Seoul, Korea
 
 ## October
 
@@ -93,8 +95,10 @@
 
 ## November
 
+* November 3-4 (Fri-Sat) - [BlizzCon 2017](https://blizzcon.com/), Anaheim, USA
 * November 7-9 (Tue-Thu) - [Code Mesh](http://www.codemesh.io/), London, UK
 * November 7-11 (Tue-Sat) - [QCon](https://qconsf.com/), San Francisco, USA
+* November 12-17 (Sun-Fri) - [IETF 100](https://www.ietf.org/meeting/100/), Singapore, Singapore
 * November 15-17 (Wed-Fri) - [GOTO](https://gotocon.com/), Berlin, Germany
 * November 27-December 1 (Mon-Fri) - [AWS re:Invent](http://reinvent.awsevents.com/), Las Vegas, USA
 * ? - [GOTO Accelerate](https://gotocon.com/), London, UK
