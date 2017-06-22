@@ -7,10 +7,12 @@
 
 ## February
 
+* February 2 (Thu) - [Machine Learning @Scale](https://atscaleconference.com/events/machine-learning-scale-2017/), New York, USA
 * February 2-3 (Thu-Fri) - [Git Merge](http://git-merge.com/), Brussels, Belgium
 * February 7-9 (Tue-Thu) - [Spark Summit East](https://spark-summit.org/east-2017/), Boston, USA
 * February 8-10 (Wed-Fri) - [SIGPL Winter School 2017](http://sigpl.or.kr/school/2017w/), Daejeon, South Korea
 * February 9-10 (Thu-Fri) - [Lambda Days](http://www.lambdadays.org/lambdadays2017), Kraków, Poland
+* February 22 (Wed) - [Video @Scale](https://atscaleconference.com/events/videoscale-2017/) (invitation-only), Menlo Park, USA
 * February 27-March 3 (Mon-Fri) - [GDC](http://www.gdconf.com/), San Francisco, USA
 
 ## March
@@ -22,6 +24,7 @@
 * March 20 (Mon) - [EclipseCon](https://www.eclipseconverge.org/na2017/), San Jose, USA
 * March 20-30 (Mon-Thu) - [Erlang & Elixir Factory](http://www.erlang-factory.com/sfbay2017/), San Francisco, USA
 * March 26-31 (Sun-Fri) - [IETF 98](https://www.ietf.org/meeting/98/index.html), Chicago, USA
+* March 28-31 (Tue-Fri) - [PGConf US](https://pgconf.us/conferences/2017), Jersey City, USA
 * March 30-31 (Thu-Fri) - [Clojure/west](http://2017.clojurewest.org/), Portland, USA
 
 ## April
@@ -31,6 +34,7 @@
 * April 17-20 (Mon-Thu) - [Dockercon](http://2017.dockercon.com/), Austin, USA
 * April 18-19 (Tue-Wed) - [F8 Facebook Developer Conference](https://www.fbf8.com/), San Jose, USA
 * April 18-21 (Tue-Fri) - [Scala Days](http://event.scaladays.org/scaladays-chicago-2017), Chicago, USA
+* April 24-25 (Mon-Tue) - [OpenVis Conf](https://openvisconf.com/), Boston, USA
 * April 24-26 (Mon-Wed) - [QCon](http://qconsp.com/), São Paulo, Brazil
 * April 25-28 (Tue-Fri) - [Craft Conference](https://craft-conf.com/), Budapest, Hungary
 
@@ -42,7 +46,9 @@
 * May 10-12 (Wed-Fri) - [Microsoft Build](http://build.microsoft.com/), Seatle, USA
 * May 17-19 (Wed-Fri) - [Google I/O](https://events.google.com/io/), Mountain View, USA
 * May 17-25 (Wed-Thu) - [PyCon](https://us.pycon.org/2017/), Portland, USA
+* May 22-23 (Mon-Tue) - [GitHub Satellite](https://githubuniverse.com/satellite/), London, UK
 * May 22-25 (Mon-Thu) - [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-eu), London, UK
+* May 24 (Wed) - [Dev Tools @Scale](https://atscaleconference.com/events/dev-tools-scale/), London, UK
 * May 25-27 (Thu-Sat) - [LambdaConf](http://lambdaconf.us/#lcusc), Boulder, USA
 * May 30-June 2 (Tue-Fri) - [Scala Days](http://event.scaladays.org/scaladays-cph-2017), Copenhagen, Denmark
 
@@ -50,6 +56,7 @@
 
 * June 5-7 (Mon-Wed) - [Spark Summit](https://spark-summit.org/2017/), San Francisco, USA
 * June 5-9 (Mon-Fri) - [WWDC](https://developer.apple.com/wwdc/) + AltConf, San Jose, USA
+* June 8 (Thu) - [Data @Scale](https://atscaleconference.com/events/data-scale-2017/), Seattle, USA
 * June 8-9 (Thu-Fri) - [Erlang User Conference](http://www.erlang-factory.com/euc2017), Stockholm, Sweden
 * June 12-14 (Mon-Wed) - [GOTO](https://gotoams.nl/), Amsterdam, Netherlands
 * June 18-23 (Sun-Fri) - [PLDI](http://conf.researchr.org/home/pldi-2017), Barcelona, Spain
@@ -70,7 +77,7 @@
 
 ## August
 
-* August 12-15 (Sat-Tue) - PyCon Korea, Seoul, Korea
+* August 12-15 (Sat-Tue) - [PyCon Korea](https://www.pycon.kr/2017/), Seoul, Korea
 * August 18-19 (Fri-Sat) - [RustConf](http://rustconf.com/), Portland, USA
 
 ## September
@@ -84,11 +91,12 @@
 ## October
 
 * October 1-4 (Mon-Wed) - Velocity, New York, USA
-* October 1-5 (Mon-Thu) - [JavaOne + Oracle OpenWorld](https://go.oracle.com/LP=39416), San Francisco, USA
+* October 1-5 (Mon-Thu) - [JavaOne + Oracle OpenWorld](https://www.oracle.com/javaone/index.html), San Francisco, USA
 * October 1-5 (Mon-Thu) - [GOTO](https://gotocph.com/), Copenhagen, Denmark
 * October 16-19 (Mon-Thu) - Software Architecture, London, UK
 * October 17-20 (Tue-Fri) - Velocity, London, UK
 * October 19-21 (Thu-Sat) - [QCon](http://2016.qconshanghai.com/), Shanghai, China
+* October 21-22 (Sat-Sun) - [GStreamer Conference](https://gstreamer.freedesktop.org/conference/2017/), Prague, Czech Republic
 * October 22-27 (Sun-Fri) - [SPLASH (OOPSLA)](http://2017.splashcon.org/), Vancouver, Canada
 * ? - DEVIEW, Seoul, Korea
 * ? - [GOTO](https://gotocon.com/), London, UK
