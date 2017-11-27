@@ -77,6 +77,7 @@
 
 ## August
 
+* August 6-11 (Sun-Fri) - [ICML](https://2017.icml.cc/), Sydney, Australia
 * August 12-15 (Sat-Tue) - [PyCon Korea](https://www.pycon.kr/2017/), Seoul, Korea
 * August 18-19 (Fri-Sat) - [RustConf](http://rustconf.com/), Portland, USA
 
@@ -94,11 +95,11 @@
 * October 1-5 (Mon-Thu) - [JavaOne + Oracle OpenWorld](https://www.oracle.com/javaone/index.html), San Francisco, USA
 * October 1-5 (Mon-Thu) - [GOTO](https://gotocph.com/), Copenhagen, Denmark
 * October 16-19 (Mon-Thu) - Software Architecture, London, UK
+* October 16-17 (Mon-Wed) - [DEVIEW](https://deview.kr/2017), Seoul, Korea
 * October 17-20 (Tue-Fri) - Velocity, London, UK
 * October 19-21 (Thu-Sat) - [QCon](http://2016.qconshanghai.com/), Shanghai, China
 * October 21-22 (Sat-Sun) - [GStreamer Conference](https://gstreamer.freedesktop.org/conference/2017/), Prague, Czech Republic
 * October 22-27 (Sun-Fri) - [SPLASH (OOPSLA)](http://2017.splashcon.org/), Vancouver, Canada
-* ? - DEVIEW, Seoul, Korea
 * ? - [GOTO](https://gotocon.com/), London, UK
 
 ## November
